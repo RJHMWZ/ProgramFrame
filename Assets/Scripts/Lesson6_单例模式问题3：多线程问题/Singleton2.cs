@@ -17,7 +17,7 @@ public class Singleton2<T>  where T:class
                 {
                     if (instance == null)
                     {
-                        CreateInstance();
+                        instance=CreateInstance();
                     }
                 }
             }
