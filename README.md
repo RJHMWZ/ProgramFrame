@@ -6,3 +6,4 @@
 - [第四课: 单例模式问题1：构造函数](Assets/Scripts/Lesson4_单例模式问题1：构造函数)
 - [第五课: 单例模式问题2：重复挂载](Assets/Scripts/Lesson5_单例模式问题2：重复挂载)
 - [第六课: 单例模式问题3：多线程问题](Assets/Scripts/Lesson6_单例模式问题3：多线程问题)
+- [第七课: 单例模式类别：懒汉和饿汉](Assets/Scripts/Lesson7_单例模式：懒汉和饿汉)
