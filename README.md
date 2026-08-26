@@ -4,3 +4,4 @@
 - [第二课：非 MonoBehaviour 单例模式](Assets/Scripts/Lesson2_非Mono单例模式)
 - [第三课：MonoBehaviour 单例模式](Assets/Scripts/Lesson3_Mono单例模式)
 - [第四课: 单例模式问题1：构造函数](Assets/Scripts/Lesson4_单例模式问题1：构造函数)
+- [第五课: 单例模式问题2：重复挂载](Assets/Scripts/Lesson5_单例模式问题2：重复挂载)
