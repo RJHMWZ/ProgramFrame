@@ -2,7 +2,6 @@ using System;
 using System.Reflection;
 using UnityEngine;
 
-[DisallowMultipleComponent]
 public class Singleton2<T>  where T:class
 {
     private static T instance;
