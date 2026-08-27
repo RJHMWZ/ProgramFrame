@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HideMe : MonoBehaviour
+public class HideMe3 : MonoBehaviour
 {
     void OnEnable()
     {
