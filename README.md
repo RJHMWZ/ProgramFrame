@@ -14,3 +14,4 @@
 - [第12课: 缓存池优化：窗口布局](Assets/Scripts/Lesson12_缓存池优化：窗口布局)
 - [第13课: 缓存池优化：对象上限](Assets/Scripts/Lesson13_缓存池优化：对象上限)
 - [第14课: 缓存池优化：对象上限配置](Assets/Scripts/Lesson14_缓存池优化：对象上限配置)
+- [第15课: 事件中心：主要作用和原理](Assets/Scripts/Lesson15_事件中心：主要作用和原理)
