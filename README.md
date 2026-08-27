@@ -16,3 +16,4 @@
 - [第14课: 缓存池优化：对象上限配置](Assets/Scripts/Lesson14_缓存池优化：对象上限配置)
 - [第15课: 事件中心：主要作用和原理](Assets/Scripts/Lesson15_事件中心：主要作用和原理)
 - [第16课: 事件中心：实现](Assets/Scripts/Lesson16_事件中心：实现)
+- [第17课: 事件中心优化：添加参数](Assets/Scripts/Lesson17_事件中心优化：添加参数)
