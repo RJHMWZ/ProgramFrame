@@ -11,6 +11,6 @@ public class HideMe : MonoBehaviour
 
     private void HideSelf()
     {
-        PoolMgr.Instance.saveObj(gameObject);
+        PoolMgr2.Instance.PushObj(gameObject);
     }
 }
