@@ -13,3 +13,4 @@
 - [第11课: 缓存池的实现](Assets/Scripts/Lesson11_缓存池的实现)
 - [第12课: 缓存池优化：窗口布局](Assets/Scripts/Lesson12_缓存池优化：窗口布局)
 - [第13课: 缓存池优化：对象上限](Assets/Scripts/Lesson13_缓存池优化：对象上限)
+- [第14课: 缓存池优化：对象上限配置](Assets/Scripts/Lesson14_缓存池优化：对象上限配置)
