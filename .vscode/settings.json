@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ProgramFrame.sln"
+    "dotnet.defaultSolution": "ProgramFrame-main.sln"
 }
