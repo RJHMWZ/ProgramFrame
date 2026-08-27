@@ -18,3 +18,4 @@
 - [第16课: 事件中心：实现](Assets/Scripts/Lesson16_事件中心：实现)
 - [第17课: 事件中心优化：添加参数](Assets/Scripts/Lesson17_事件中心优化：添加参数)
 - [第18课: 事件中心优化：泛型参数](Assets/Scripts/Lesson18_事件中心优化：泛型参数)
+- [第19课: 事件中心优化：事件名](Assets/Scripts/Lesson19_事件中心优化：事件名)
