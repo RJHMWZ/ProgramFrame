@@ -20,3 +20,4 @@
 - [第18课: 事件中心优化：泛型参数](Assets/Scripts/Lesson18_事件中心优化：泛型参数)
 - [第19课: 事件中心优化：事件名](Assets/Scripts/Lesson19_事件中心优化：事件名)
 - [第20课: 资源加载模块：主要作用和基本原理](Assets/Scripts/Lesson20_资源加载模块：主要作用和基本原理)
+- [第21课: 资源加载：基本实现](Assets/Scripts/Lesson21_Resources资源加载：基本实现)
