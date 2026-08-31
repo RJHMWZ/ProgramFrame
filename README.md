@@ -22,3 +22,4 @@
 - [第20课: 资源加载模块：主要作用和基本原理](Assets/Scripts/Lesson20_资源加载模块：主要作用和基本原理)
 - [第21课: 资源加载：基本实现](Assets/Scripts/Lesson21_Resources资源加载：基本实现)
 - [第22课: 资源加载：异步加载优化](Assets/Scripts/Lesson22_Resources资源加载：异步加载优化)
+- [第23课: 资源加载：同步加载优化](Assets/Scripts/Lesson23_Resources资源加载：同步加载优化)
