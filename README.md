@@ -24,3 +24,4 @@
 - [第22课: 资源加载：异步加载优化](Assets/Scripts/Lesson22_Resources资源加载：异步加载优化)
 - [第23课: 资源加载：同步加载优化](Assets/Scripts/Lesson23_Resources资源加载：同步加载优化)
 - [第24课: 资源加载：引用计数优化](Assets/Scripts/Lesson24_Resources资源加载：引用计数优化)
+- [第24课: Editor 资源加载：主要作用和基本原理](<Assets/Scripts/Lesson25：Editor 资源加载：主要作用和基本原理>)

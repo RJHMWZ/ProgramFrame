@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Lesson23Main : MonoBehaviour
+public class Lesson24Main : MonoBehaviour
 {
    private void Start()
     {
