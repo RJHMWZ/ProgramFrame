@@ -1,7 +1,4 @@
-using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.iOS;
-using UnityEditor.SceneManagement;
 using UnityEngine;
 
 public class PoolMgr : Singleton2<PoolMgr>

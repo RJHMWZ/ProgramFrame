@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1786824560
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e766dd8b5f2ae3e010df94e3249d7ac9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 519943e52d440fbe988daa4bc577dbee
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e766dd8b5f2ae3e010df94e3249d7ac9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5bd14ceff8a3f746b1fde22723fb04d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72349d545011c4f47bd8cd1f0895aaa4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/ArtRes/Cube.prefab
+Dependencies: []

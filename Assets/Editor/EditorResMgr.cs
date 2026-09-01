@@ -53,6 +53,7 @@ public class EditorResMgr : Singleton2<EditorResMgr>
     /// <returns></returns>
     public Sprite LoadSprite(string path,string spriteName)
     {
+#if UNITY_EDITOR
         if (string.IsNullOrEmpty(path) ||
             string.IsNullOrEmpty(spriteName))
         {
@@ -81,6 +82,9 @@ public class EditorResMgr : Singleton2<EditorResMgr>
         );
 
         return null;
+#else
+        return null;
+#endif
     }
 
     /// <summary>
@@ -90,6 +94,7 @@ public class EditorResMgr : Singleton2<EditorResMgr>
     public Dictionary<string, Sprite> LoadSprites(
         string path)
     {
+#if UNITY_EDITOR
         Dictionary<string, Sprite> spriteDic = new();
 
         if (string.IsNullOrEmpty(path))
@@ -114,6 +119,9 @@ public class EditorResMgr : Singleton2<EditorResMgr>
         }
 
         return spriteDic;
+#else
+        return null;
+#endif
     }
 
     /// <summary>
@@ -121,6 +129,7 @@ public class EditorResMgr : Singleton2<EditorResMgr>
     /// </summary>
     private string GetSuffixName<T>()where T : UnityEngine.Object
     {
+#if UNITY_EDITOR
         System.Type type = typeof(T);
         if (type == typeof(GameObject))
             return ".prefab";
@@ -135,5 +144,8 @@ public class EditorResMgr : Singleton2<EditorResMgr>
         if (type == typeof(AudioClip))
             return ".mp3";
         return string.Empty;
+#else
+        return null;
+#endif
     }
 }
